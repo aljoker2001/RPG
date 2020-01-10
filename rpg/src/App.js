@@ -1,7 +1,7 @@
 import React from 'react';
 import logo from './logo.svg';
 import './App.css';
-import Character from './components/Character'
+import Character from './pages/Character'
 
 function App() {
   return (

@@ -14,3 +14,7 @@ describe('Character component testing', function () {
     expect(wrapper.contains(header)).to.equal(true);
   });
 });
+
+/*
+-renders page when loaded
+*/
